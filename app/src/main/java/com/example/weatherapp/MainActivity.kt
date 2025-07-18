@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
 import com.example.weatherapp.data.Repo
-import retrofit2.Retrofit
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var repo: Repo
